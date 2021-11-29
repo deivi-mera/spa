@@ -1,3 +1,7 @@
+/*
+Este es el archivo de gracias
+*/
+
 <?php
 session_start();
 error_reporting(0);
