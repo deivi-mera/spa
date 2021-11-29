@@ -1,3 +1,5 @@
+
+
 <?php 
 include('includes/dbconnection.php');
 session_start();
@@ -73,6 +75,7 @@ $_SESSION['aptno']=$result['AptNumber'];
 		          	<div class="text mt-5">
 		          		<span class="subheading">SPA ConfiguroWeb</span>
 			            <h1 class="mb-4">Ponte Bella</h1>
+						<h3> Mes de rebaja </h3>
 			            <p class="mb-4">Nos enorgullecemos de nuestro trabajo de alta calidad y atención al detalle. Los productos que utilizamos son de marca de primera calidad.</p>
 			            
 			           
